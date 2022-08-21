@@ -1,5 +1,6 @@
 # learning-go
-In this repo, I just show useful examples about go ( programming language )
+In this repo, I just show useful examples and informations about Go ( programming language ).
+
 
 # Cp 1 - Go and Web Applications 
 # Cp 2- Basic Web Applications
