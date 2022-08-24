@@ -1,4 +1,4 @@
-# Request methods
+# Request methods <br>
 The request method is the first word on the request-line and indicates the action to be done on the resource. HTTP 0.9 had only one method: GET. HTTP 1.0 added POST and HEAD. HTTP 1.1 added another five—PUT, DELETE, OPTIONS, TRACE, and CON- NECT—and opened the possibility for adding more methods (and many promptly did).
 Interestingly, HTTP 1.1 specifies that GET and HEAD must always be implemented while all other methods are optional (this means even POST is optional).
 
