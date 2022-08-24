@@ -6,9 +6,9 @@ Instead of having multiple and points that return fixed data structures like and
 
 
 There are 3 types of operation in GraphQl API : 
-1- Query
-2- Mutation
-3- Subscription
+1- Query  <br />
+2- Mutation  <br />
+3- Subscription  <br />
 
 # Query 
 Query is used to fetch data. It completely flexible, so client can decides what data is actually needed by defining the actual result layout in the  query.
