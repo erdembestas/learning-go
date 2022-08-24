@@ -6,6 +6,7 @@ import (
 	"net/http"
 )
 
+//Get
 func main() {
    resp, err := http.Get("https://jsonplaceholder.typicode.com/posts")
    if err != nil {
